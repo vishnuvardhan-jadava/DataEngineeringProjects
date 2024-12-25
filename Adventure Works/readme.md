@@ -89,3 +89,9 @@ The pipeline enables:
 - Implement real-time data processing with Azure Stream Analytics.
 
 ## Repository Structure
+
+## References
+- [Adventure Works Dataset on Kaggle](https://www.kaggle.com/datasets/ukveteran/adventure-works?resource=download&select=AdventureWorks_Territories.csv)
+- [Azure Data Factory Documentation](https://learn.microsoft.com/en-us/azure/data-factory/)
+- [Azure Databricks Documentation](https://learn.microsoft.com/en-us/azure/databricks/)
+- [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)
